@@ -4,7 +4,7 @@ https://rocket-restapi.herokuapp.com//api/interventions/ to get elevator id in p
 
 ------------------------------------------------------------------
 
-Rocket Elevators New REST API for Consolidation Project API URL: https://rocket-restapi.herokuapp.com//api
+Rocket Elevators REST API URL: https://rocket-restapi.herokuapp.com//api
 
 How to answer the 3 requests in Postman :
 
